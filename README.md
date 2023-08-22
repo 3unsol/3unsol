@@ -23,18 +23,25 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&amp;logo=html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&amp;logo=javascript&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&amp;logo=vuedotjs&amp;logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=square&amp;logo=github&amp;logoColor=white"/>
+<hr />
 <br />
 
 ### 🎓
-2023.07 ~ 삼성 청년 SW아카데미 2학기 (진행중)
-2023.01 ~ 2023.05 삼성 청년 SW 아카데미 1학기(코딩 집중과정) 800 시간 이수
+2023.07 ~ 삼성 청년 SW아카데미 2학기 (진행중) <br/>
+2023.01 ~ 2023.05 삼성 청년 SW 아카데미 1학기(코딩 집중과정) 800 시간 이수 <br/>
 2021.09 ~ 2021.12 공공데이터 청년인턴
+<hr />
+<br />
 
 ### 🏆
 2021년 공공데이터를 활용한 서비스 개발 부문 해커톤 최우수상
+<hr />
+<br />
 
 ### 💡
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tansan)](https://solved.ac/tansan/)
+<br />
+<hr />
 <br />
 
 ### 💻
